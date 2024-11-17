@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nodejs, express and mangoDB<br>💬 Ask me about React, React Native and NextJS<br>📫 How to reach me ray682212@gmail.com
+🌱 I’m currently learning Nodejs, express and mangoDB<br>💬 Ask me about React, React Native and NextJS<br>📫 How to reach me rayen.sassi045@hotmail.com
 
 
 ## 🌐 Socials:
